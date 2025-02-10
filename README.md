@@ -1,5 +1,6 @@
-# TReK LC
+# TReK L.C.
 GL516 inspire keyboard tray.
+（「L.C.」は、私の尊敬するインダストリアルデザイナー「ルイジ・コラーニ（Luigi Colani）」氏のイニシャルから取っています）
 
 ![TReK L.C](./PXL_0000.jpg)
 
