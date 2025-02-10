@@ -39,16 +39,18 @@ GL516にある6箇所のネジ固定箇所は、基本的にはすべて7mmの�
 私が作成したケーブルのレシピを書いておきます。
 
 - ケーブル自作に必要なもの
-  - [パネルマウントUSB-C Femaleコネクタケーブル](https://amzn.asia/d/55BpzSk)
+  - [パネルマウントUSB-C Femaleコネクタケーブル](https://amzn.asia/d/55BpzSk)  
     USB-C FemaleコネクタにUSB2.0用のケーブルがハンダ付けされているので、このケーブルをそのまま使用します。
-    ![Femaleコネクタ](./PXL_0001.jpg)
-  - [USB-C Maleコネクタ](https://amzn.asia/d/052WZSY)
+  - [USB-C Maleコネクタ](https://amzn.asia/d/052WZSY)  
     VCC, D+, D-, GNDの4端子があるUSB-C Maleコネクタであれば使えると思います。
-    ![Maleコネクタ](./PXL_0002.jpg)
   - 熱収縮チューブ
     USB-C Femaleコネクタにハンダ付けされているケーブルを、USB-C Maleコネクタにハンダ付けするのですが、その前にMale、Female両コネクタを保護するために熱収縮チューブを通しておきます。
     Maleコネクタをハンダ付けする前に、すでにハンダ付けされているFemaleコネクタに熱収縮チューブを通し熱して固定しておくと良いでしょう。
 
+  - USB-C Femaleコネクタ作成例  
+    ![Femaleコネクタ](./PXL_0001.jpg)
+  - USB-C Maleコネクタ作成例  
+    ![Maleコネクタ](./PXL_0002.jpg)
 
 このパネルマウントFemaleコネクタは、固定部分にあるネジ穴にタップが切られていないので、ネジだけで固定することが出来ません。
 なので、M2のネジとM2のナットが必要です。
