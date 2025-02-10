@@ -2,7 +2,9 @@
 GL516 inspire keyboard tray.  
 （「L.C.」は、私の尊敬するインダストリアルデザイナー「ルイジ・コラーニ（Luigi Colani）」氏のイニシャルから取っています）
 
-![TReK L.C](./PXL_0000.jpg)
+このケースデータ自体は、サリチル酸さんの「GL516[^1] Template」のPCBデータを元にモデリングしているため、オリジナルのMITライセンスを継承して公開されます。
+
+[TReK L.C](./PXL_0000.jpg)
 
 ## ファイル内容
 - TReK_Case_v4.3mf
