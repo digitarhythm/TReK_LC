@@ -5,6 +5,8 @@ GL516 inspire keyboard tray.
 ![TReK L.C](./PXL_0000.jpg)
 
 ## ファイル内容
+- TReK_Case_LC.3mf
+  - 分割印刷用のプロジェクトになります。
 - TReK_Case_v4.stl
   - トレイそのもののデータになります。
 
