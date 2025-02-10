@@ -65,4 +65,4 @@ M2のネジは自作キーボードをやっている方であれば特に用意
 
 ----
 
-[^1]: GL561デザインガイド https://zenn.dev/salicylic_acid3/books/gl516_design_guide
+[^1]: GL516デザインガイド https://zenn.dev/salicylic_acid3/books/gl516_design_guide
