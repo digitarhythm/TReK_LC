@@ -9,7 +9,7 @@ GL516 inspire keyboard tray.
   TReK L.C. Black<br>
   <img src="./img/PXL_0000.jpg" style="width:80%"/><br>
   <br>
-  TReK L.C. Black<br>
+  TReK L.C. White<br>
   <img src="./img/PXL_0007.jpg" style="width:80%"/><br>
 </p>
 
