@@ -6,11 +6,11 @@ GL516 inspire keyboard tray.
 このケースデータは、サリチル酸さんの「GL516[^1] Template」のPCBデータを元にモデリングしているため、オリジナルのMITライセンスを継承して公開されます。
 
 <p align="center">
+  TReK L.C. Black<br>
   <img src="./img/PXL_0000.jpg" style="width:80%"/><br>
-  TReK L.C. Black
   <br>
+  TReK L.C. Black<br>
   <img src="./img/PXL_0007.jpg" style="width:80%"/><br>
-  TReK L.C. Black
 </p>
 
 ## ファイル内容
