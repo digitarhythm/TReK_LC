@@ -7,7 +7,7 @@ GL516 inspire keyboard tray.
 
 <p align="center">
   TReK L.C. サイドカーボン柄<br>
-  <img src="./img/PXL_0007.jpg" style="width:80%"/><br>
+  <img src="./img/PXL_0008.jpg" style="width:80%"/><br>
   <br>
   TReK L.C. サイド積層痕そのまま<br>
   <img src="./img/PXL_0000.jpg" style="width:80%"/><br>
