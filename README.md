@@ -88,5 +88,8 @@ M2のネジは自作キーボードをやっている方であれば特に用意
 GL516にある6箇所のネジ固定箇所は、基本的にはすべて7mmのスペーサーを使用します。
 ![](./img/PXL_0003.jpg)
 
+トレイにキーボードを載せ、裏から6箇所をM2のネジで固定します。
+![ネジ留め](./img/bottom_image/screw.jpg)
+
 
 [^1]: GL516デザインガイド https://zenn.dev/salicylic_acid3/books/gl516_design_guide
